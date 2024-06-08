@@ -5,3 +5,15 @@
 h1{
     text-align: center;
 }
+audio{
+    text-align: center;
+}
+
+
+.ss{
+    display:flex;
+    width: 500;
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+}
